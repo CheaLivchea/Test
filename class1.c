@@ -6,5 +6,5 @@ int main(){
 
     printf("Length of the string : %zu\n", length);]
     printf("Hello guys!");
-    return 0;
+    return 1;
 }
